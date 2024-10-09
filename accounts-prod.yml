@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts related PRODUCTION APIs "
   contactDetails:
     name: "Cr1stal - CEO"
     email: "tutor@eazybank.com"
