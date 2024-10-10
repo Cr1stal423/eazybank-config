@@ -2,7 +2,7 @@ build:
   version: ${BULD_VERSION:3.0.0}
 
 cards:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
     name: "Cr1stal423 - Developer"
     email: "tutor@eazybank.com"
