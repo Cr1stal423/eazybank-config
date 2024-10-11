@@ -3,10 +3,11 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Cr1stal - CEO"
     email: "tutor@eazybank.com"
+    secret: "{cipher}7398154e61d81b77e71516c6df4ae924baaebc1d868263ecd58281c5249f6641"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
